@@ -5,7 +5,6 @@
   - [Installation](#Install)
   - [Usage](#Usage)
   - [Image](#Image)
-  - [Deployed Site](#Deployed-Site)
   - [Questions](#Questions)
 
 # Description
@@ -32,10 +31,6 @@ You can either choose to clone the repositiory and save it on your device, or yo
 
 <img width="1145" alt="Screen Shot 2022-05-19 at 9 24 12 AM" src="https://user-images.githubusercontent.com/94761193/169305213-86b6036d-551e-4a60-9995-cd9fc70c3ffe.png">
 
-
-
-# Deployed-Site
-[Click here for a link to the deployed application](https://deepthoughts2.herokuapp.com/)
 
 # Questions
 
